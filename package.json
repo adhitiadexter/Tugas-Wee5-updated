@@ -1,0 +1,18 @@
+{
+  "name": "tugas-week5",
+  "version": "1.0.0",
+  "description": "tugas week 5 automation test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adhitiapanji",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^12.1.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.3",
+    "@esbuild-plugins/node-modules-polyfill": "^0.1.4",
+    "cypress": "^10.6.0",
+    "esbuild": "^0.15.5"
+  }
+}
